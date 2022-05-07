@@ -1,0 +1,1 @@
+VAdef VAend == VAme = quiero  5.a == != ! ! >= <= "hola"
